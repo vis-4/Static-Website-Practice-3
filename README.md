@@ -16,6 +16,6 @@ This page features:
 - Responsive layout using Bootstrap utility classes
 
 ## Features:
--Fully developed Web-Page
--Content shifted to bottom using flex box container
--Clean and Minial code structure
+- Fully developed Web-Page
+- Content shifted to bottom using flex box container
+- Clean and Minial code structure
